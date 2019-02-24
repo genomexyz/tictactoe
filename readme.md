@@ -1,6 +1,6 @@
 # TIC TAC TOE BOT
 
-The tic tac toe bot that will learn how to play tic tac toe from you
+The tic tac toe bot that will learn how to play tic tac toe from you. So simple program but so many file, why? Actually, I am using codeigniter. Recently, i love using using codeigniter.
 
 # requirement:
 - Apache 2
