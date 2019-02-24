@@ -15,7 +15,7 @@ The tic tac toe bot that will learn how to play tic tac toe from you
 2. flask run >& /dev/null &
 
 
-#short explanation
+# Short Explanation
 
 Using qtable and monte carlo method.
 IMPORTANT: Idk how many game are need by my bot to play properly, so its important to experimenting with epsilon and decay_epsilon variable.
