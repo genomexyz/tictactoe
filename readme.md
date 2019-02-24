@@ -3,6 +3,7 @@
 The tic tac toe bot that will learn how to play tic tac toe from you
 
 # requirement:
+- Apache 2
 - PHP 5 or newer
 - Python 3
 - numpy (python 3 module)
